@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/onlinehouseui/static/js/main.e77edfbd.chunk.js",
+    "main.js.map": "/onlinehouseui/static/js/main.e77edfbd.chunk.js.map",
+    "runtime-main.js": "/onlinehouseui/static/js/runtime-main.5a0730ac.js",
+    "runtime-main.js.map": "/onlinehouseui/static/js/runtime-main.5a0730ac.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/onlinehouseui/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.c2b7e245.chunk.js": "/onlinehouseui/static/js/2.c2b7e245.chunk.js",
+    "static/js/2.c2b7e245.chunk.js.map": "/onlinehouseui/static/js/2.c2b7e245.chunk.js.map",
+    "index.html": "/onlinehouseui/index.html",
+    "precache-manifest.8b37a45ba11818ad462a548ab3b3a971.js": "/onlinehouseui/precache-manifest.8b37a45ba11818ad462a548ab3b3a971.js",
+    "service-worker.js": "/onlinehouseui/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/onlinehouseui/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.c2b7e245.chunk.js.LICENSE.txt": "/onlinehouseui/static/js/2.c2b7e245.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a0730ac.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.c2b7e245.chunk.js",
+    "static/js/main.e77edfbd.chunk.js"
+  ]
+}
